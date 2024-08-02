@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi there 👋### Boas vindas ao meu perfil :blue_heart
 
-<!--
-**Taw7/Taw7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Meu nome é Tawane Silva Santos
 
-Here are some ideas to get you started:
+- Estou estudando na Alura
+- Estou ultilizando isso por obrigação
+### Você pode entrar em contato comigo 🎨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+tawaness564@gmail.com
+@_taw.ss_
+
+
+
+
+
+
+
+
+
+
+![](https://media.tenor.com/BE7hp0RXDqAAAAAM/jungkook-te-quiero.gif)
 -->
